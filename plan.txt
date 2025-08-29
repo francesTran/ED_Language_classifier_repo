@@ -1,0 +1,4 @@
+check finetuning functionality 
+create own training data
+add yt api access
+add other scraping 
